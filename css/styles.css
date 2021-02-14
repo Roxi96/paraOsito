@@ -33,6 +33,13 @@ top: 250px;
 
 }
 
+@media (max-width:600px)  {
+    .arr{
+      width: 100%;
+    }
+  
+}
+
 
 .encanta h2{
   font-family: 'Dancing Script', cursive;
