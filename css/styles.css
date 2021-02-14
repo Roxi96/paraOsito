@@ -1,0 +1,143 @@
+.top img{
+width: 100%;
+position: relative;
+}
+
+body{
+  margin: 0;
+  background-color: #fff5fe;
+  text-align: center;
+}
+
+.top h1{
+  font-family: 'Dancing Script', cursive;
+  position: absolute;
+  font-size: 90px;
+  color: white;
+  bottom: 600x;
+  left: 1180px;
+  right: 200px;
+  top: 200px;
+text-align: center;
+border-top: solid;
+border-color: pink;
+border-bottom: solid;
+border-color: pink;
+}
+
+.deco1{
+  position: relative;
+  width: 7%;
+left: 450px;
+top: 250px;
+
+}
+
+
+.encanta h2{
+  font-family: 'Dancing Script', cursive;
+  font-size: 60px;
+  padding-top: 100px;
+  color: #09bed6;
+  padding-bottom: 100px;
+
+
+}
+.row{
+
+  margin: 100px auto 300px auto;
+}
+.ima1{
+
+  width: 10%;
+  float: left;
+  margin-left: 600px;
+}
+.ima2{
+  width: 10%;
+  float: right;
+  margin-right: 600px;
+}
+.ima3{
+  width: 10%;
+  float: left;
+  margin-left: 600px;
+}
+.ima4{
+  width: 10%;
+  float: right;
+  margin-right: 600px;
+}
+
+.h31{
+  font-family: 'Truculenta', sans-serif;
+  color: #cd5d7d;
+  margin-top: 60px;
+  font-size: 35px;
+  margin-right: 200px;
+
+}
+.h32{
+  font-family: 'Truculenta', sans-serif;
+color: #cd5d7d;
+  margin-top: 60px;
+  font-size: 35px;
+  margin-left: -150px;
+}
+.h33{
+  font-family: 'Truculenta', sans-serif;
+  color: #cd5d7d;
+  margin-top: 60px;
+  font-size: 35px;
+  margin-right: 200px;
+}
+.h34{
+  font-family: 'Truculenta', sans-serif;
+  color: #cd5d7d;
+  margin-top: 60px;
+  font-size: 35px;
+  margin-left: -150px;
+}
+
+p{
+  font-family: 'Truculenta', sans-serif;
+  color: #754470;
+  width: 25%;
+font-size: 22px;
+
+float: right;
+margin-right: 400px;
+line-height: 2;
+
+}
+.encanta hr{
+  border: dotted #0f90b8;
+  width: 5%;
+  border-bottom: none;
+  border-width: thick ;
+  margin: 175px auto;
+
+}
+.pp2{
+  width: 40%;
+  margin:-125px 560px 0 60px;
+
+
+}
+.bottom{
+
+background-color: #726a95;
+padding: 50px 0 20px;
+}
+.cancion{
+  color: #297891;
+
+}
+.cancion:hover{
+  color: gold;
+}
+.pp{
+  margin:  -20px 725px  0 0;
+  color: white;
+  font-size: 0.75rem;
+}
